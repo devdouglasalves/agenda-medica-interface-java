@@ -1,0 +1,4 @@
+NomePaciente;CPF;Profissional;CRM;DataConsulta;TipoPagamento
+Ana Silva;123.456.789-10;Dr. Joao Pereira;123456;10/07/2025 14:00;Particular
+Carlos Souza;987.654.321-00;Dra. Paula Costa;654321;11/07/2025 09:30;Convenio
+Maria Oliveira;456.789.123-45;Dr. Marcos Lima;112233;12/07/2025 16:00;SUS
